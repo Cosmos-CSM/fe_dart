@@ -5,6 +5,12 @@ library;
 // Exporting content
 export 'src/type_defs.dart';
 
+// > exporting [/abstractions/interfaces]
+export 'src/abstractions/interfaces/idecodable.dart';
+export 'src/abstractions/interfaces/iencodable.dart';
+export 'src/abstractions/interfaces/ivariation.dart';
+export 'src/abstractions/interfaces/icomparable_object.dart';
+
 // > Exporting [/extensions]
 export 'src/extensions/int_xt.dart';
 export 'src/extensions/datamap_ext.dart';
