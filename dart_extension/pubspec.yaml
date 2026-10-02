@@ -1,0 +1,13 @@
+name: dart_extension
+description: A Dart language / framework extension, provides utilities and tools for CSM org guidelines.
+version: 0.0.0-pre
+repository: https://github.com/Cosmos-CSM/fe_dart.git
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
